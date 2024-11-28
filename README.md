@@ -1,1 +1,1 @@
-# autograd
+This small project was to implement autograd functionality using only NumPy to train a neural network. This meant no PyTorch or Tensorflow.
